@@ -1,0 +1,2 @@
+# resource
+My have resource
